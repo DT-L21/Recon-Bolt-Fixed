@@ -1,0 +1,104 @@
+/* Pro Store: error restoring purchase */
+"A previous transaction was found, but it could not be verified! %@" = "找到了之前的交易，但無法驗證！%@";
+
+/* error loading the account for a widget */
+"Could not load active account!" = "無法加載活躍帳號";
+
+/* Riot API Error */
+"Invalid Headers: %@" = "無效的Headers: %@";
+
+/* wrong account error */
+"It looks like this account has never played Valorant!
+
+You've probably signed into the wrong account; %@" = "看起來這個賬號還沒有玩過特戰英豪！
+你可能登入了錯誤的帳號 %@";
+
+/* No comment provided by engineer. */
+"Keychain error for key '%@': %@" = "鑰匙的關鍵字錯誤 '%@': %@";
+
+/* store widget error */
+"Malformed Offer" = "異常商品";
+
+/* error loading the account for a widget. */
+"Malformed account." = "異常帳號.";
+
+/* store widget error */
+"Missing Assets!" = "缺少資源包！";
+
+/* No comment provided by engineer. */
+"Missing game configuration data for %@ region!" = "缺少 %@ 地區的遊戲配置數據！";
+
+/* Should not happen anymore, but you never know ¯\_(ツ)_/¯ */
+"Missing session for account!
+If you have Pro, add an account using the same credentials to replace the account with a working version." = "這個帳號的會話丟失！
+如果您有專業版，請使用一樣的密碼增加一個帳戶，以替換為可用的帳號。";
+
+/* error loading the account for a widget. */
+"No account specified." = "沒有指定帳號.";
+
+/* Pro Store: error restoring purchase */
+"No previous transaction found!" = "找不到之前的交易！";
+
+/* Riot API Error */
+"Please try again in %lld seconds." = "請在 %lld 秒後重試。";
+
+/* Pro Store: error restoring purchase (placeholder is reason why it was revoked) */
+"Previous purchase was revoked! Reason: %@" = "您之前的購買被撤銷了！ 原因：%@";
+
+/* Riot API Error */
+"The API rejected your authorization." = "API 拒絕了您的授權。";
+
+/* Riot API Error */
+"The API returned an error code %lld, i.e. %@. %@" = "API 回傳錯誤代碼 %lld, i.e. %@. %@";
+
+/* Riot API Error */
+"The API returned an error code %lld." = "API 回傳代碼 %lld";
+
+/* Riot API Error */
+"The resource could not be found." = "找不到資源。";
+
+/* Riot API Error */
+"This match could not be loaded! Valorant discards match details for older matches after a few months." = "這對戰無法載入! 特戰英豪在幾個月後刪除了舊的對戰細節";
+
+/* Keychain error. */
+"Unexpected type found: %@" = "發現意外的類別：%@";
+
+/* store widget error */
+"Unknown Offer" = "未知商品";
+
+/* store widget error */
+"Unknown Skin" = "未知造型";
+
+/* No comment provided by engineer. */
+"Unknown keychain error: %d" = "未知鑰匙串錯誤：%d";
+
+/* Pro Store: error restoring purchase: replacement for revokation reason on outdated iOS where it's not available */
+"Update to iOS 15.4 to see the reason!" = "更新到iOS 15.4以檢視原因！";
+
+/* Riot API Error */
+"Valorant is currently undergoing scheduled maintenance. Riot is probably updating the game!" = "特戰英豪目前正在進行定期維護。 Riot可能正在更新遊戲！";
+
+/* No comment provided by engineer. */
+"Widgets require Recon Bolt Pro!" = "小工具需要購買 Recon Bolt 專業版";
+
+/* Riot API Error */
+"You are sending too many requests." = "您發送的請求過多。";
+
+/* Riot API Error */
+"Your session could not be resumed. %@" = "您的會話無法恢復。%@";
+
+/* Riot API Error */
+"Your session has expired! Please sign in again." = "您的會話已過期！ 請再次登入。";
+
+/* Riot API Error */
+"Your token has expired. %@" = "您的令牌已過期。%@";
+
+/* wrong account error */
+"this one has no Riot ID & Tagline." = "似乎沒有相應的RiotID & Tagline。";
+
+/* wrong account error */
+"this one is:
+
+%@" = "這個是:
+
+%@";

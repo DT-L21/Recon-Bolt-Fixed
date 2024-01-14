@@ -1,0 +1,985 @@
+
+/* Used for matches less than a day ago. %@ is replaced by the number of hours/minutes, e.g. '3h ago'. */
+"%@ ago" = "%@ sedan";
+
+/* %@ is replaced by a fraction of wins vs. games played, e.g. '5/12 games won'. */
+"%@ games won" = "%@ vunna matcher";
+
+/* Win Rate Stats by Loadout Delta: focused value (drag on graph); placeholder is replaced by the percentage of rounds won, e.g. '57.3% won'. */
+"%@ won" = "%@ vunnit";
+
+/* used throughout the app to format percentages—placeholder is replaced by a number */
+"%@%%" = "%@%%";
+
+/* Missions Box: always at least 3 */
+"%lld Future Weeklies" = "%lld Framtida weeklies";
+
+/* Missions Box: always at least 3 */
+"%lld Queued-Up Weeklies" = "%lld weeklies som står i kö";
+
+/* No comment provided by engineer. */
+"%lld RR" = "%lld RR";
+
+/* Storage Management */
+"%lld from other players" = "%lld från andra spelare";
+
+/* Hit Distribution Stats: hit count */
+"%lld hits" = "%lld träffar";
+
+/* Shown at the bottom of the expandable playtime list when there are more entries available. */
+"%lld more" = "%lld mer";
+
+/* Win Rate Stats by Loadout Delta: focused value (drag on graph) */
+"%lld to %lld credits" = "%lld till %lld credits";
+
+/* No comment provided by engineer. */
+"%lld%%" = "%lld%%";
+
+/* No comment provided by engineer. */
+"%lld/%lld" = "%lld/%lld";
+
+/* Time Formatting: minutes & seconds (used in round details view) */
+"%lld:%@" = "%lld:%@";
+
+/* Time Formatting: minutes, seconds, & milliseconds (used in round details view) */
+"%lld:%@.%@" = "%lld:%@.%@";
+
+/* Win Rate Stats by Loadout Delta: focused value (drag on graph) */
+"(%lld – %lld)" = "(%lld - %lld)";
+
+/* Pro Features List */
+"(You can switch between available icons at any time.)" = "(Du kan när som helst växla mellan tillgängliga ikoner.)";
+
+/* No comment provided by engineer. */
+"+%lld XP" = "+%lld XP";
+
+/* Missions Widget: how many more weeklies are queued up after the current set */
+"+%lld queued" = "+%lld köade";
+
+/* Store: night market discount */
+"-%lld%%" = "-%lld%%";
+
+/* No comment provided by engineer. */
+"2-Factor Authentication" = "2-faktor autentisering";
+
+/* Missions Widget: countdown label when the target is in the future. e.g. '< 2d 3h' */
+"< %@" = "< %@";
+
+/* No comment provided by engineer. */
+"A 2FA code has been sent to your email address %@" = "En 2FA-kod har skickats till din e-postadress %@";
+
+/* Match List Filter */
+"A match's queue is unknown until its details are fetched (by tapping it or performing the swipe action).
+Competitive matches after your placements can be identified without their details, however." = "En matchkö är okänd tills dess att detaljerna hämtas (genom att du trycker på den eller sveper den).
+Konkurrerande matchningar efter dina placeringar kan dock identifieras utan deras uppgifter.";
+
+/* Match List: shown with a match's RR change when the player got an AFK Penalty (filled into the placeholder, including -) */
+"AFK: %lld" = "AFK: %lld";
+
+/* Career Summary: header for totals of all time */
+"ALL TIME" = "ALL TIME";
+
+/* Settings: section */
+"About" = "Om";
+
+/* No comment provided by engineer. */
+"About Recon Bolt" = "Om Recon Bolt";
+
+/* Settings: section */
+"Accounts" = "Konton";
+
+/* Match List: accessibility label */
+"Add Bookmark" = "Lägg till som bokmärke";
+
+/* Account Settings */
+"Add another Account" = "Lägg till ett annat konto";
+
+/* Pro Features List */
+"Add multiple accounts and seamlessly switch between them at any time." = "Lägg till flera konton och växla smidigt mellan dem.";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Avancerade inställningar";
+
+/* Pro Store */
+"Advanced Stats" = "Avancerad statistik";
+
+/* No comment provided by engineer. */
+"Agent Select" = "Välj agent";
+
+/* Statistics filter: button */
+"Agents" = "Agents";
+
+/* Stats: match loading */
+"All %lld" = "Alla %lld";
+
+/* No comment provided by engineer. */
+"All Maps" = "Alla kartor";
+
+/* Statistics Filter: button to allow all agents */
+"Allow All Agents" = "Tillåt allt";
+
+/* Statistics Filter: button to allow all queues */
+"Allow All Queues" = "Tillåt allt";
+
+/* Default Error Alert Title */
+"An Error Occurred!" = "Ett fel inträffade!";
+
+/* About Screen */
+"An invaluable API hosting all the assets (images, data, etc.) used throughout Valorant. This is where almost every image in the app comes from." = "En API som innehåller alla tillägg (bilder, data osv.) som används i Valorant. Det är här nästan alla bilder i appen kommer ifrån.";
+
+/* Statistics filter: shown when every agent is allowed */
+"Any Agent" = "Alla agents";
+
+/* Statistics filter: shown when every queue is allowed */
+"Any Queue" = "Alla queues";
+
+/* Asset Management */
+"Anything with images will not display correctly." = "Allt som innehåller bilder kommer inte att visas korrekt.";
+
+/* Settings: button */
+"App Icon" = "App-ikon";
+
+/* No comment provided by engineer. */
+"Are your assets outdated?" = "Är dina assets gamla?";
+
+/* Pro Features List */
+"As thanks for your support, you get to show off your status with an exclusive app icon!" = "Som tack för ditt stöd får du visa upp din status med en exklusiv app-ikon!";
+
+/* No comment provided by engineer. */
+"Assets" = "Assets";
+
+/* Asset Management: shown before the newest version is fetched, so it's not know yet if the assets are up to date or outdated */
+"Assets complete." = "Assets klara.";
+
+/* No comment provided by engineer. */
+"Assets not loaded!" = "Assets har inte laddats!";
+
+/* Asset Management */
+"Assets out of date!" = "Tillgångarna är föråldrade!";
+
+/* No comment provided by engineer. */
+"Assets should be fetched automatically, but in case something went wrong, feel free to initiate the process manually." = "Tillgångarna ska hämtas automatiskt, men om något gick fel kan du gärna starta processen manuellt.";
+
+/* Asset Management */
+"Assets up to date!" = "Tillgångarna är uppdaterade!";
+
+/* Win Rate Stats: side name */
+"Attacking" = "Attack";
+
+/* Hit Distribution Stats: average HS% */
+"Average: %@" = "Genomsnittligt: %@";
+
+/* Request Log: shown for bodies that are not decodable to text */
+"Binary Data" = "Binära data";
+
+/* Hit Distribution Stats: region
+Weapon Reference: stats */
+"Body" = "Body";
+
+/* Bookmark/Player List: section */
+"Bookmarks" = "Bokmärken";
+
+/* Gun Customizer: section */
+"Buddy" = "Buddy";
+
+/* Storage Management: section */
+"By Kind" = "Av Kind";
+
+/* Win Rate Stats: section
+Playtime Stats: section */
+"By Map" = "Med kartan";
+
+/* Playtime Stats: section/title */
+"By Non-Premade Player" = "Av Non-Premade Player";
+
+/* Playtime Stats: section/title */
+"By Premade Teammate" = "Av Premade Teammate";
+
+/* Playtime Stats: section */
+"By Queue" = "Alla queues";
+
+/* Hit Distribution Stats: section */
+"By Weapon" = "Med vapen";
+
+/* No comment provided by engineer. */
+"Cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"Cancel Matchmaking" = "Avbryt matchmaking";
+
+/* Top-Level Tab Title */
+"Career" = "Karriär";
+
+/* No comment provided by engineer. */
+"Career Summaries" = "Karriär sammanfattning";
+
+/* No comment provided by engineer. */
+"Career Summary" = "Karriär sammanfattning";
+
+/* Weapon Reference */
+"Category" = "Kategori";
+
+/* No comment provided by engineer. */
+"Change Buddy" = "Byt gun-buddy";
+
+/* Settings: button */
+"Change Language" = "Ändra språk";
+
+/* No comment provided by engineer. */
+"Change Queue" = "Byt queue";
+
+/* Gun Customizer: button */
+"Change Skin" = "Byt skin";
+
+/* Store Widget: description */
+"Check your current Valorant storefront." = "Kolla din Valorant shop.";
+
+/* Missions Widget: description */
+"Check your progress on daily & weekly missions." = "Kolla dina framsteg på dagliga och veckovisa uppdrag.";
+
+/* No comment provided by engineer. */
+"Choose App Icon" = "Välj app ikon";
+
+/* No comment provided by engineer. */
+"Choose Buddy" = "Välj gun-buddy";
+
+/* No comment provided by engineer. */
+"Choose Card" = "Välj playercard";
+
+/* No comment provided by engineer. */
+"Choose Skin" = "Välj skin";
+
+/* No comment provided by engineer. */
+"Choose Spray" = "Välj spray";
+
+/* No comment provided by engineer. */
+"Choose Title" = "Välj titel";
+
+/* Buddy Picker: alert shown when both instances of a buddy are in use */
+"Choose a weapon to take %@ from." = "Välj ett vapen att ta bort %@ från.";
+
+/* Storage Management: button to delete all entries of a certain kind */
+"Clear All" = "Rensa allt";
+
+/* Skin Details: section */
+"Color Variants" = "Färgvarianter";
+
+/* Storage Management: title for alert to confirm deleting some matches */
+"Confirm Delete" = "Bekräfta att radera";
+
+/* Request Log: button to copy the request's body/contents (accessibility label) */
+"Copy Body" = "Kopiera kroppen";
+
+/* Stats: error details: accessibility label */
+"Copy Error" = "Kopieringsfel";
+
+/* No comment provided by engineer. */
+"Copy Error Details" = "Kopiera feldetaljer";
+
+/* No comment provided by engineer. */
+"Copy Match ID" = "Kopiera match-ID";
+
+/* No comment provided by engineer. */
+"Copy to Clipboard" = "Kopiera till Urklipp";
+
+/* No comment provided by engineer. */
+"Could Not Load Account!" = "Kunde inte ladda konto!";
+
+/* No comment provided by engineer. */
+"Could not Change App Icon!" = "Det gick inte att ändra app-ikonen!";
+
+/* No comment provided by engineer. */
+"Could not delete files!" = "Det gick inte att radera filer!";
+
+/* No comment provided by engineer. */
+"Could not determine used storage!" = "Kunde inte bestämma använd förvaring!";
+
+/* No comment provided by engineer. */
+"Could not free up space!" = "Kunde inte frigöra utrymme!";
+
+/* No comment provided by engineer. */
+"Could not look up %@" = "Kunde inte söka upp %@";
+
+/* Login Form: error title */
+"Could not sign in!" = "Kunde inte logga in!";
+
+/* About Screen: section */
+"Credits" = "Cred";
+
+/* Asset Management */
+"Current version: %@" = "Nuvarande version: %@";
+
+/* No comment provided by engineer. */
+"Currently in agent select" = "För närvarande i agent select";
+
+/* No comment provided by engineer. */
+"Currently in-game" = "In-game";
+
+/* Queue Label: custom game */
+"Custom" = "Anpassad";
+
+/* Gun Customizer: title */
+"Customize %@" = "Anpassa %@";
+
+/* Gun Customizer: title */
+"Customize Gun" = "Anpassa vapen";
+
+/* Missions Widget */
+"Daily" = "Daglig";
+
+/* Store */
+"Daily Offers" = "Daglig Butik";
+
+/* Weapon Reference: stats */
+"Damage" = "Skador";
+
+/* App Theme */
+"Dark Mode" = "Mörkt läge";
+
+/* Stats: match loading */
+"Data going back to %@" = "Data som går tillbaka till %@";
+
+/* No comment provided by engineer. */
+"Day" = "Dag";
+
+/* App Icon Name */
+"Default" = "Standard";
+
+/* App Icon Picker: section */
+"Default Icon" = "Standardikon";
+
+/* Win Rate Stats: side name */
+"Defending" = "Defens";
+
+/* Storage Management: button to confirm deleting some matches */
+"Delete %lld Matches" = "Ta bort %lld matcher";
+
+/* Match Details: button to view details by round */
+"Details by Round" = "Detaljer om rundor";
+
+/* No comment provided by engineer. */
+"Discord Server" = "Discord-server";
+
+/* Hit Distribution Stats: section */
+"Distribution Over Time" = "Fördelning över tiden";
+
+/* No comment provided by engineer. */
+"Done" = "Klart";
+
+/* No comment provided by engineer. */
+"Download Assets Now" = "Ladda ner assets nu";
+
+/* Win Rate Stats: chart legend */
+"Draws" = "Draws";
+
+/* Request Log: shown in place of a status code (like 200 or 404) when sending failed. */
+"ERROR" = "FEL";
+
+/* Match List: accessibility label */
+"Edit Filter" = "Redigera filter";
+
+/* No comment provided by engineer. */
+"Enter 2FA Code" = "Ange 2FA-kod";
+
+/* Weapon Reference: stats */
+"Equip Time" = "Utrustningstid";
+
+/* Request Log
+Stats: error details */
+"Error" = "Fel";
+
+/* No comment provided by engineer. */
+"Error Details" = "Detaljer om fel";
+
+/* Asset Management */
+"Error downloading assets!" = "Fel vid nedladdning av tillgångar!";
+
+/* Request Log: title for an exchange */
+"Exchange" = "Utbyte";
+
+/* Request Log: title for detailed view of request body/contents */
+"Exchange Body" = "Body";
+
+/* Statistics Filter: button to exclude all agents */
+"Exclude All Agents" = "Exkludera alla";
+
+/* Statistics Filter: button to exclude all queues */
+"Exclude All Queues" = "Exkludera alla";
+
+/* Pro Features List */
+"Exclusive App Icon" = "Exklusiv app-ikon";
+
+/* Round Details: killed by spike */
+"Exploded" = "Exploderad";
+
+/* Pro Features List */
+"Family Sharing" = "Familjedelning";
+
+/* Request Log: placeholder is replaced by error dump. */
+"Feedback Email Body" = "Vad gick fel? Berätta om felet du just stötte på:
+
+DIN FELRAPPORT HÄR
+
+%@";
+
+/* Match List: accessibility label */
+"Fetch Details" = "Uppgifter om matchen";
+
+/* Statistics Filter: title (section) */
+"Filter" = "Filter";
+
+/* No comment provided by engineer. */
+"Filter Maps" = "Filtrera kartor";
+
+/* No comment provided by engineer. */
+"Filter Match List" = "Filtrera matchlistan";
+
+/* No comment provided by engineer. */
+"Filter Queues" = "Filtrera köer";
+
+/* No comment provided by engineer. */
+"Filtering by starting side will exclude any matches in single-round modes like Deathmatch, Escalation, etc." = "Filtrering efter startsida utesluter alla matcher i lägen med en enda runda som Deathmatch, Escalation osv.";
+
+/* No comment provided by engineer. */
+"Find Match" = "Starta kö";
+
+/* Party Box: placeholder shows time spent in queue */
+"Finding match… (%@)" = "Hittar match… (%@)";
+
+/* Weapon Reference: stats */
+"Fire Rate" = "Eldhastighet";
+
+/* Weapon Reference: stats */
+"First Bullet Spread" = "Spridning av den första kulan";
+
+/* No comment provided by engineer. */
+"Force Refresh Widgets" = "Tvinga uppdatering av widgetar";
+
+/* Storage Management: button to free up a certain amount of space */
+"Free up these %@" = "Frigör dessa %@";
+
+/* Agent Select header: shown when timer reaches zero */
+"Game Started" = "Spelet har börjat";
+
+/* No comment provided by engineer. */
+"Game is not running!" = "Spelet körs inte just nu!";
+
+/* Pro Features List */
+"Gather statistics from anyone's games to gain insights on things like time played by mode/premade, headshot rate over time/by weapon, win rate over time/by map & side, and more!" = "Samla in statistik från någons spel för att få insikter om saker som speltid per läge/förhandstillverkning, skottfrekvens över tid/per vapen, vinstfrekvens över tid/per karta och sida och mycket mer!";
+
+/* Pro Features List */
+"Getting money from Recon Bolt gives me the flexibility and motivation to keep improving the app!" = "Att få pengar från Recon Bolt ger mig flexibilitet och motivation att fortsätta förbättra appen!";
+
+/* Pro Store */
+"I hope you enjoy the pro features :)" = "Jag hoppas att du gillar de nya pro-funktionerna :)";
+
+/* Login Form: is this safe? */
+"I won't sugarcoat things. Due to the way this app uses the API, I believe there's no other way to sign in than to have people enter their credentials directly. Under those circumstances, there's really no good way for anyone to be sure their credentials remain safe. For what it's worth:" = "Jag ska inte skönmåla saker. På grund av det sätt som den här appen använder API: et tror jag inte att det finns något annat sätt att logga in än att låta folk ange sina autentiseringsuppgifter direkt. Under dessa omständigheter finns det egentligen inget bra sätt för någon att vara säker på att deras inloggningsuppgifter är säkra. För vad det är värt:";
+
+/* No comment provided by engineer. */
+"Identities" = "Identiteter";
+
+/* Pro Features List */
+"If you have multiple accounts, you can configure separate widgets for each and have them on your Home Screen at the same time." = "Om du har flera konton kan du konfigurera separata widgetar för varje konto och ha dem på startskärmen samtidigt.";
+
+/* Settings: section */
+"In-App Store" = "Butik";
+
+/* Login Form: button/header */
+"Is this safe?" = "Är detta säkert?";
+
+/* Match Details: section */
+"Kills by Round" = "Kills per runda";
+
+/* Asset Management: this row shows the language of the current assets */
+"Language" = "Språk";
+
+/* Hit Distribution Stats: region
+Weapon Reference: stats */
+"Legs" = "Ben";
+
+/* Bookmark/Player List: player level */
+"Level %lld" = "Nivå %lld";
+
+/* No comment provided by engineer. */
+"Lifetime Peak" = "Livstid Peak";
+
+/* App Theme */
+"Light Mode" = "Ljusläge";
+
+/* About Screen: section */
+"Links" = "Länkar";
+
+/* Top-Level Tab Title */
+"Live" = "Live";
+
+/* No comment provided by engineer. */
+"Live Match" = "Live-match";
+
+/* Stats: match loading */
+"Load Data" = "Ladda data";
+
+/* Match List */
+"Load Older Matches" = "Ladda gamla matcher";
+
+/* Pro Store */
+"Loading Store Info…" = "Laddar shoppen…";
+
+/* No comment provided by engineer. */
+"Loading request log…" = "Laddar efterfrågan av logg…";
+
+/* No comment provided by engineer. */
+"Loadout" = "Loadout";
+
+/* No comment provided by engineer. */
+"Loadout Delta" = "Loadout Delta";
+
+/* No comment provided by engineer. */
+"Loadout Delta is computed as the difference between the average loadout value of players on each team. For example, a loadout delta of +1000 means your team's loadouts were an average of 1000 credits more valuable than the enemy team's in that round." = "Loadout Delta beräknas som skillnaden mellan det genomsnittliga loadoutvärdet för spelarna i varje lag. Till exempel innebär ett loadout-delta på +1000 att ditt lags loadouts i genomsnitt var 1000 krediter mer värdefulla än fiendens lags i den omgången.";
+
+/* No comment provided by engineer. */
+"Loadout not loaded!" = "Loadout inte laddad!";
+
+/* No comment provided by engineer. */
+"Lock In" = "Lås in Agent";
+
+/* No comment provided by engineer. */
+"Lock In %@" = "Lås in %@";
+
+/* Bookmark/Player List: lookup button */
+"Look Up" = "Leta upp";
+
+/* Login Form */
+"Looks like you're trying to enter your Riot ID (and tagline) as username! Your username is actually something else: it's what you use to sign into the Valorant launcher.
+
+If you don't know your username or don't have one, you can fix that at [account.riotgames.com](https://account.riotgames.com)." = "Det verkar som om du försöker ange ditt Riot-ID (och din tagline) som användarnamn! Ditt användarnamn är faktiskt något annat: det är det du använder för att logga in på Valorant-clienten på datorn.
+
+Om du inte vet ditt användarnamn eller inte har något kan du hitta det på [account.riotgames.com](https://account.riotgames.com).";
+
+/* Win Rate Stats: chart legend */
+"Losses" = "Förluster";
+
+/* No comment provided by engineer. */
+"Manage Assets" = "Hantera tillgångar";
+
+/* No comment provided by engineer. */
+"Manage Local Storage" = "Hantera lokal lagring";
+
+/* About Screen */
+"Many thanks to the volunteer translators from our Discord server who have been hard at working translating the app to new languages!" = "Ett stort tack till de frivilliga översättarna från vår Discord-server som har arbetat hårt med att översätta appen till nya språk!";
+
+/* No comment provided by engineer. */
+"Map" = "Kartor";
+
+/* No comment provided by engineer. */
+"Maps" = "Kartor";
+
+/* Stats: error details */
+"Match" = "Match";
+
+/* Match Details: title */
+"Match Details" = "Uppgifter om matchen";
+
+/* Match List: shown when a match didn't get past Agent Select (because someone dodged/left) */
+"Match Dodged" = "Lobbyn blev dodgad";
+
+/* No comment provided by engineer. */
+"Match Lists" = "Matchlistor";
+
+/* No comment provided by engineer. */
+"Match Loading Errors" = "Fel vid laddning av matcher";
+
+/* App Theme: automatically match the system theme */
+"Match System" = "Matcha färgen med systemet";
+
+/* Match List: section */
+"Matches" = "Matcher";
+
+/* Party Box: shown when member's name is not yet loaded */
+"Member" = "Medlem";
+
+/* Request Log */
+"Method" = "Metod";
+
+/* Asset Management */
+"Missing assets!" = "Saknade tillgångar!";
+
+/* No comment provided by engineer. */
+"Missing season data!" = "Uppgifter om säsong saknas!";
+
+/* Missions Widget: title */
+"Missions" = "Uppdrag";
+
+/* No comment provided by engineer. */
+"Month" = "Månad";
+
+/* Pro Features List */
+"Multiple Account Support" = "Stöd för flera konton";
+
+/* Pro Store */
+"Multiple Accounts" = "Flera konton";
+
+/* Bookmark/Player List: lookup name placeholder */
+"Name" = "Namn";
+
+/* Asset Management */
+"Newest available: %@" = "Senaste tillgängliga: %@";
+
+/* Store */
+"Night Market" = "Night Market";
+
+/* Buddy picker: option at the top to select no buddy */
+"No Buddy" = "Ingen buddy";
+
+/* No comment provided by engineer. */
+"No Spray" = "Ingen spray";
+
+/* No comment provided by engineer. */
+"No Title" = "Ingen titel";
+
+/* Gun Customizer: shown when a weapon has no buddy active */
+"No buddy selected!" = "Ingen buddy vald!";
+
+/* Win Rate Stats: by map */
+"No data" = "Ingen data";
+
+/* Map Reference */
+"No minimap available!" = "Ingen minimap tillgänglig!";
+
+/* No comment provided by engineer. */
+"Normalize Charts" = "Normalisera diagram";
+
+/* Party Box */
+"Not Ready" = "Inte redo";
+
+/* Hit Distribution Stats: error */
+"Not enough data!" = "Inte tillräckligt med data!";
+
+/* Account Settings */
+"Not signed in yet." = "Har inte loggat in ännu.";
+
+/* No comment provided by engineer. */
+"Not signed in!" = "Inte inloggad!";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Official Website" = "Officiell webbplats";
+
+/* No comment provided by engineer. */
+"Open or swipe to fetch details." = "Öppna eller svep för att hämta information.";
+
+/* Storage Management */
+"Other Players" = "Andra spelare";
+
+/* Buddy Picker: alert shown when both instances of a buddy are in use */
+"Out of instances!" = "Inga exempel!";
+
+/* Win Rate Stats: section
+Playtime Stats: section */
+"Over Time" = "Over Time";
+
+/* Hit Distribution Stats: section
+Playtime Stats: section */
+"Overall" = "Overall";
+
+/* No comment provided by engineer. */
+"Overdrive (Neon)" = "Overdrive (Neon)";
+
+/* No comment provided by engineer. */
+"Party" = "Party";
+
+/* Scoreboard: party letter */
+"Party %@" = "Party %@";
+
+/* Login Form */
+"Password" = "Lösenord";
+
+/* Agent View: label for player who hasn't picked an agent yet */
+"Picking…" = "Väljer…";
+
+/* Match List: section */
+"Player" = "Spelare";
+
+/* Bookmark/Player List: title */
+"Players" = "Spelare";
+
+/* No comment provided by engineer. */
+"Playtime" = "Speltid";
+
+/* App Icon Name */
+"Pro Blue" = "Pro Blue";
+
+/* No comment provided by engineer. */
+"Pro Features" = "Pro-funktioner";
+
+/* App Icon Picker: section */
+"Pro Icons" = "Pro Ikoner";
+
+/* Pro Store: error alert title */
+"Purchase Failed!" = "Köp misslyckades!";
+
+/* Pro Store: button (placeholder filled with formatted currency) */
+"Purchase – %@" = "Köp - %@";
+
+/* Statistics filter: button */
+"Queues" = "Köer";
+
+/* Rank Widget: title */
+"Rank" = "Rank";
+
+/* Rank Changes Widget: title */
+"Rank Changes" = "Rank ändringar";
+
+/* accessibility label */
+"Ready" = "Redo";
+
+/* No comment provided by engineer. */
+"Recon Bolt Pro" = "Recon Bolt Pro";
+
+/* Pro Features List */
+"Recon Bolt Pro supports Family Sharing, meaning if just one member of your iCloud family buys it, everyone can use it!" = "Recon Bolt Pro stöder Familjedelning, vilket innebär att om bara en medlem av din iCloud-familj köper den kan alla använda den!";
+
+/* Pro Features List */
+"Recon Bolt does not have and will never have ads. The only way it can make money is through in-app purchases." = "Recon Bolt har inte och kommer aldrig att ha annonser. Det enda sättet att tjäna pengar är genom köp i appen.";
+
+/* Top-Level Tab Title */
+"Reference" = "Referens";
+
+/* Account Settings: button to refresh expired session */
+"Refresh" = "Uppdatera";
+
+/* No comment provided by engineer. */
+"Refresh automatically" = "Uppdatera automatiskt";
+
+/* Match List: accessibility label */
+"Remove Bookmark" = "Ta bort bokmärke";
+
+/* Asset Management: button */
+"Reset" = "Återställ";
+
+/* Request Log: header */
+"Response" = "Svar";
+
+/* Pro Store: error alert title */
+"Restore Failed!" = "Återställning misslyckades!";
+
+/* Pro Store: button */
+"Restore Purchase" = "Återställ köpet";
+
+/* No comment provided by engineer. */
+"Retry" = "Försök igen";
+
+/* Round Details: title */
+"Round Details" = "Rund detaljer";
+
+/* Bookmark/Player List: section */
+"Search" = "Sök";
+
+/* No comment provided by engineer. */
+"Send to Developer" = "Skicka till utvecklare";
+
+/* Account Settings: shown when the current account's session has expired */
+"Session expired!" = "Sessionen har gått ut!";
+
+/* Top-Level Tab Title */
+"Settings" = "Inställningar";
+
+/* Playtime Stats: title for view of matches in common with another player */
+"Shared Matches" = "Delade matcher";
+
+/* No comment provided by engineer. */
+"Show Unfetched Matches" = "Visa oavslutade matcher";
+
+/* No comment provided by engineer. */
+"Show all matches" = "Visa alla matcher";
+
+/* No comment provided by engineer. */
+"Show details when found" = "Visa info när du hittar game";
+
+/* Account Settings: button
+Login Form: button */
+"Sign In" = "Logga in";
+
+/* Login Form */
+"Sign In with your Riot account" = "Logga in med ditt Riot-konto";
+
+/* Login Form: button/header */
+"Sign in with Google/Apple/etc." = "Logga in med Google/Apple/etc.";
+
+/* No comment provided by engineer. */
+"Spectator" = "Spectator";
+
+/* Round Details: Spike Event */
+"Spike Defused" = "Spike Defused";
+
+/* Round Details: Spike Event */
+"Spike Planted" = "Spike Planted";
+
+/* No comment provided by engineer. */
+"Start Matchmaking?" = "Starta matchmaking?";
+
+/* Win Rate Stats: accessibility label */
+"Starting Side" = "Startsida";
+
+/* Win Rate Stats */
+"Starting Side:" = "Startsida:";
+
+/* No comment provided by engineer. */
+"Statistics" = "Statistik";
+
+/* Statistics Pro purchase prompt */
+"Statistics not available!" = "Statistik finns inte tillgänglig!";
+
+/* Store Widget: title */
+"Store" = "Butik";
+
+/* No comment provided by engineer. */
+"Store not loaded!" = "Butiken är inte laddad!";
+
+/* Login Form: is this safe? */
+"TL;DR: you'll have to take my word for it, but Riot doesn't seem to mind." = "TL;DR: Du får tro mig, men Riot verkar inte ha något emot det.";
+
+/* Bookmark/Player List: lookup tag placeholder */
+"Tag" = "Tag";
+
+/* Pro Store */
+"Thank you for supporting Recon Bolt!" = "Tack för ditt stöd till Recon Bolt!";
+
+/* Login Form: is this safe? */
+"The code is open-source and visible on GitHub; you can build it yourself if you want to be sure of what's running." = "Koden är öppen källkod och finns på GitHub; du kan kolla koden själv om du vill vara säker på vad som körs.";
+
+/* App Icon Description: default */
+"The default look of Recon Bolt." = "Standardutseende för Recon Bolt.";
+
+/* App Icon Picker: section footer */
+"The pro version lets you change the app icon! More icons might be coming in future updates." = "I pro-versionen kan du ändra app-ikonen! Fler ikoner kan komma i framtida uppdateringar.";
+
+/* Settings: picker */
+"Theme" = "Tema";
+
+/* Statistics error for iOS <16 */
+"This feature requires iOS 16 or newer." = "Den här funktionen kräver iOS 16 eller nyare.";
+
+/* Stats: match loading */
+"To gather statistics, we first need to load matches to process. Note that large amounts can take a long time, especially when downloading for the first time!" = "För att samla in statistik måste vi först ladda in matcher för att bearbeta dem. Observera att stora mängder kan ta lång tid, särskilt när du laddar ner för första gången!";
+
+/* Win Rate Stats: side name
+Hit Distribution Stats: region */
+"Total" = "Totalt";
+
+/* No comment provided by engineer. */
+"Total Playtime" = "Total speltid";
+
+/* No comment provided by engineer. */
+"Total Space Used" = "Totalt utnyttjat utrymme";
+
+/* No comment provided by engineer. */
+"Tour de Force (Chamber)" = "Tour de Force (Chamber)";
+
+/* No comment provided by engineer. */
+"Twitter @juliand665" = "Twitter @juliand665";
+
+/* Shown when a match does not match the filter and its details have not been fetched. */
+"Unfetched" = "Unfetched";
+
+/* placeholder */
+"Unknown Buddy" = "Okänd buddy";
+
+/* placeholder */
+"Unknown Bundle" = "Okänd bundle";
+
+/* No comment provided by engineer. */
+"Unknown Player" = "Okänd spelare";
+
+/* No comment provided by engineer. */
+"Unknown Queue" = "Okänd queue";
+
+/* Match List: should never appear unless assets are missing/outdated */
+"Unknown Rank" = "Okänd rank";
+
+/* placeholder */
+"Unknown Title" = "Okänd titel";
+
+/* Round Details: killed by unknown damage source/type */
+"Unknown Type" = "Okänd typ";
+
+/* Stats: label for a weapon that the app doesn't know for some reason
+Round Details: killed by unknown/unspecified weapon */
+"Unknown Weapon" = "Okänt vapen";
+
+/* No comment provided by engineer. */
+"Unknown bundle!" = "Okänt bundle!";
+
+/* No comment provided by engineer. */
+"Unknown mission!" = "Okänt uppdrag!";
+
+/* Asset Management: button */
+"Update Now" = "Uppdatera nu";
+
+/* Match Details: button */
+"Update Ranks" = "Uppdatera ranks";
+
+/* Login Form */
+"Username" = "Användarnamn";
+
+/* No comment provided by engineer. */
+"Users" = "Användare";
+
+/* Win Rate Stats by Loadout Delta */
+"Value Difference (credits)" = "Värdeskillnad (krediter)";
+
+/* Asset Management: this row shows the version of the current assets */
+"Version" = "Version";
+
+/* Reference */
+"Version %@" = "Version %@";
+
+/* Settings: toggle */
+"Vibrate when Match Found" = "Vibrera när en match hittas";
+
+/* Pro Store */
+"View All Features" = "Visa alla funktioner";
+
+/* No comment provided by engineer. */
+"View Full Profile" = "Visa fullständig profil";
+
+/* Match List */
+"View Stats" = "Visa statistik";
+
+/* Statistics Pro purchase prompt: button */
+"View Store in Settings" = "Visa butik i inställningar";
+
+/* Rank Widget: description */
+"View your current rank." = "Visa din nuvarande rank.";
+
+/* Rank Changes Widget: description */
+"View your rank rating changes." = "Visa dina ändringar i rankningen.";
+
+/* Pro Features List */
+"View your storefront, daily/weekly missions, or current rank without even having to open the app!" = "Visa din butik, dina dagliga/vecko-uppdrag eller din nuvarande rankning utan att du behöver öppna appen!";
+
+/* Match List: shown with a match's RR change when the player got a performance bonus (filled into the placeholder) */
+"WP: +%lld" = "WP: +%lld";
+
+/* No comment provided by engineer. */
+"Weapon Loadout" = "Vapenutrustning";
+
+/* No comment provided by engineer. */
+"Weapons" = "Vapen";
+
+/* No comment provided by engineer. */
+"Week" = "Vecka";
+
+/* Missions Widget */
+"Weekly" = "Veckovis";
+
+/* Win Rate Stats: chart legend */
+"Wins" = "Vinst";
+
+/* No comment provided by engineer. */
+"Year" = "År";
+
+/* Login Form */
+"signing in…" = "loggar in…";

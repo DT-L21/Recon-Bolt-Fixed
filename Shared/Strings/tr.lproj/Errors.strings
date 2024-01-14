@@ -1,0 +1,111 @@
+/* Pro Store: error restoring purchase */
+"A previous transaction was found, but it could not be verified! %@" = "Önceki bir işlem bulundu, ancak doğrulanamadı! %@";
+
+/* error loading the account for a widget */
+"Could not load active account!" = "Anahtar: Aktif hesap yuklenemedi!
+Aktif hesap yuklenemedi!
+Bir pencere öğesi için hesap yüklenirken hata oluştu
+Dosya: Errors. strings!";
+
+/* Riot API Error */
+"Invalid Headers: %@" = "Anahtar: Geçersiz Başlıklar: %@
+Geçersiz Başlıklar: %@
+Riot Api Hatasi
+Dosya: Errors. strings";
+
+/* wrong account error */
+"It looks like this account has never played Valorant!
+
+You've probably signed into the wrong account; %@" = "Görünüşe göre bu hesap hiç Valorant oynamamış!
+
+Muhtemelen yanlış hesaba giriş yaptınız; %@";
+
+/* No comment provided by engineer. */
+"Keychain error for key '%@': %@" = "'%@' anahtarı için anahtar zinciri hatası: %@";
+
+/* store widget error */
+"Malformed Offer" = "Hatalı Biçimlendirilmiş Teklif";
+
+/* error loading the account for a widget. */
+"Malformed account." = "Hatalı biçimlendirilmiş hesap.";
+
+/* store widget error */
+"Missing Assets!" = "Kayıp Varlıklar!";
+
+/* No comment provided by engineer. */
+"Missing game configuration data for %@ region!" = "%@ bölgesi için eksik oyun yapılandırma verileri!";
+
+/* Should not happen anymore, but you never know ¯\_(ツ)_/¯ */
+"Missing session for account!
+If you have Pro, add an account using the same credentials to replace the account with a working version." = "Hesap için eksik oturum!
+Pro'ya sahipseniz, hesabı çalışan bir sürümle değiştirmek için aynı kimlik bilgilerini kullanarak bir hesap ekleyin.";
+
+/* error loading the account for a widget. */
+"No account specified." = "Hesap belirtilmemiş.";
+
+/* Pro Store: error restoring purchase */
+"No previous transaction found!" = "Önceki işlem bulunamadı!";
+
+/* Riot API Error */
+"Please try again in %lld seconds." = "Lütfen %lld saniye içinde tekrar deneyin.";
+
+/* Pro Store: error restoring purchase (placeholder is reason why it was revoked) */
+"Previous purchase was revoked! Reason: %@" = "Önceki satın alma işlemi iptal edildi! Sebep: %@";
+
+/* Riot API Error */
+"The API rejected your authorization." = "API yetkilendirmenizi reddetti.";
+
+/* Riot API Error */
+"The API returned an error code %lld, i.e. %@. %@" = "API bir hata kodu döndürdü %lld, yani %@. %@";
+
+/* Riot API Error */
+"The API returned an error code %lld." = "API bir hata kodu döndürdü %lld.";
+
+/* Riot API Error */
+"The resource could not be found." = "Kaynak bulunamadı.";
+
+/* Riot API Error */
+"This match could not be loaded! Valorant discards match details for older matches after a few months." = "Bu maç yüklenemedi! Valorant, birkaç ay sonra eski maçlar için maç ayrıntılarını atar.";
+
+/* Keychain error. */
+"Unexpected type found: %@" = "Beklenmeyen tür bulundu: %@";
+
+/* store widget error */
+"Unknown Offer" = "Bilinmeyen Teklif";
+
+/* store widget error */
+"Unknown Skin" = "Bilinmeyen Skin";
+
+/* No comment provided by engineer. */
+"Unknown keychain error: %d" = "Bilinmeyen anahtar zinciri hatası: %d";
+
+/* Pro Store: error restoring purchase: replacement for revokation reason on outdated iOS where it's not available */
+"Update to iOS 15.4 to see the reason!" = "Nedenini görmek için iOS 15.4'e güncelleyin!";
+
+/* Riot API Error */
+"Valorant is currently undergoing scheduled maintenance. Riot is probably updating the game!" = "Valorant şu anda planlı bir bakım altında. Riot muhtemelen oyunu güncelliyordur!";
+
+/* No comment provided by engineer. */
+"Widgets require Recon Bolt Pro!" = "Araç Takımları Recon Bolt Pro gerektirir!";
+
+/* Riot API Error */
+"You are sending too many requests." = "Çok fazla istek gönderiyorsunuz.";
+
+/* Riot API Error */
+"Your session could not be resumed. %@" = "Oturumunuz devam ettirilemedi. %@";
+
+/* Riot API Error */
+"Your session has expired! Please sign in again." = "Oturumunuzun süresi doldu! Lütfen tekrar giriş yapın.";
+
+/* Riot API Error */
+"Your token has expired. %@" = "Tokeninizin süresi doldu. %@";
+
+/* wrong account error */
+"this one has no Riot ID & Tagline." = "bunda Riot ID ve Tagline yok.";
+
+/* wrong account error */
+"this one is:
+
+%@" = "bu: 
+
+%@";
