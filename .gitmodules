@@ -1,0 +1,3 @@
+[submodule "ValorantAPI"]
+	path = ValorantAPI
+	url = https://github.com/DarkFlyper/ValorantAPI.git
