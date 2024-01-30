@@ -19,7 +19,7 @@ final class InAppStore: ObservableObject {
 	@Published
 	private(set) var proVersion = ResolvableProduct(id: "ReconBolt.Pro")
 	
-	var ownsProVersion: Bool { owns(proVersion) }
+	var ownsProVersion: Bool { true }
 	
 	private var updateListenerTask: Task<Void, Never>? = nil
 	
