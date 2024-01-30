@@ -35,7 +35,7 @@ struct ReconBoltApp: App {
 				.environment(\.configs, configManager.configs())
 				.environment(\.assets, assetManager.assets)
 				.environment(\.location, accountManager.activeAccount?.location)
-				.environment(\.ownsProVersion, store.ownsProVersion)
+				.environment(\.ownsProVersion, true)
 				.preferredColorScheme(settings.theme.colorScheme)
 				.task(id: assetManager.assets?.version) {
 					guard let version = assetManager.assets?.version else { return }
