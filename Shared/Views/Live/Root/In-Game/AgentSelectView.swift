@@ -50,7 +50,10 @@ struct AgentSelectView: View {
 			}
 		}
 		.disabled(hasEnded)
-		.overlay(alignment: .top) { infoBox }
+		.overlay(alignment: .top) {
+			infoBox
+				.padding()
+		}
 		.navigationTitle("Agent Select")
 		.navigationBarTitleDisplayMode(.inline)
 		.task {
@@ -123,6 +126,9 @@ struct AgentSelectView: View {
 			}
 			.font(.title2.weight(.bold))
 			.foregroundStyle(.primary)
+			
+			pregameInfo.team.id.name
+				.foregroundColor(pregameInfo.team.id.color)
 		}
 		.padding()
 		.background(Material.thin)
