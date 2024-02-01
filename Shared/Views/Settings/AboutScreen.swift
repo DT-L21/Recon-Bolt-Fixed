@@ -15,7 +15,7 @@ struct AboutScreen: View {
 			)
 			
 			Section(header: Text("Links", comment: "About Screen: section")) {
-				ListLink("Discord Server", destination: "https://discord.gg/bwENMNRqNa")
+				ListLink("IPA Discord Server", destination: "https://discord.gg/V78C9pZ4sK")
 				ListLink("GitHub Repo", destination: "https://github.com/juliand665/Recon-Bolt")
 				ListLink("Official Website", destination: "https://dapprgames.com/recon-bolt")
 				ListLink("Twitter @juliand665", destination: "https://twitter.com/juliand665")
