@@ -174,13 +174,7 @@ enum AnonymizationMode {
 	}
 	
 	func shouldAnonymize(_ player: Player.ID) -> Bool {
-		switch self {
-		case .all:
-			return true
-		case .some(let anonymized):
-			return anonymized.contains(player)
-		case .none:
-			return false
+        return false
 		}
 	}
 }
