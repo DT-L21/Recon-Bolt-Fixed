@@ -163,7 +163,7 @@ struct AgentSelectView: View {
 				icon
 				
 				VStack(alignment: .leading, spacing: 4) {
-					if let playerUser {
+					if !shouldAnonymize (player. id), let playerUser {
 						HStack {
 							Text(playerUser.gameName)
 							Text("#\(playerUser.tagLine)")
